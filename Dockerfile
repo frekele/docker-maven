@@ -4,7 +4,6 @@ MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
 ENV MAVEN_VERSION=3.3.9
 ENV MAVEN_HOME=/opt/mvn
-ENV M2_FOLDER=/root/.m2
 
 # change to tmp folder
 WORKDIR /tmp
@@ -21,12 +20,6 @@ RUN wget --no-check-certificate --no-cookies http://archive.apache.org/dist/mave
 # add executables to path
 RUN update-alternatives --install "/usr/bin/mvn" "mvn" "/opt/mvn/bin/mvn" 1 && \
     update-alternatives --set "mvn" "/opt/mvn/bin/mvn" 
-
-# Create .m2 folder
-RUN mkdir -p $M2_FOLDER
-
-# Mark as volume
-VOLUME  $M2_FOLDER
 
 # Add the files
 ADD rootfs /
