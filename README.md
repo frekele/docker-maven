@@ -6,7 +6,7 @@ Repository: https://hub.docker.com/r/frekele/maven
 | Branch                      | From                     | Usage        | Tag Names                                  |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------------ |
 | [3.3.9-jdk8u102] - latest   | frekele/java:jdk8u102    | Production   | 3.3.9-jdk8u102, 3.3.9-jdk8, latest         |
-| [3.3.3-jdk8u102] - latest   | frekele/java:jdk8u102    | Production   | 3.3.3-jdk8u102, 3.3.3-jdk8                 |
+| [3.3.3-jdk8u102]            | frekele/java:jdk8u102    | Production   | 3.3.3-jdk8u102, 3.3.3-jdk8                 |
 | [3.3.9-jdk8u101]            | frekele/java:jdk8u101    | Production   | 3.3.9-jdk8u101                             |
 | [3.3.3-jdk8u101]            | frekele/java:jdk8u101    | Production   | 3.3.3-jdk8u101                             |
 | [3.3.9-jdk8u92]             | frekele/java:jdk8u92     | Production   | 3.3.9-jdk8u92                              |
@@ -43,11 +43,13 @@ Repository: https://hub.docker.com/r/frekele/maven
 | [3.3.3-jdk7u72]             | frekele/java:jdk7u72     | Production   | 3.3.3-jdk7u72                              |
 | [3.3.9-jdk7u71]             | frekele/java:jdk7u71     | Production   | 3.3.9-jdk7u71                              |
 | [3.3.3-jdk7u71]             | frekele/java:jdk7u71     | Production   | 3.3.3-jdk7u71                              |
-| [dev]                       | frekele/java:latest      | Development  | dev                                        |
+| [dev]                       | frekele/java:jdk8u102    | Development  | dev                                        |
+
 
 # Dockerfile extends From:
 - https://github.com/frekele/docker-java
 - https://hub.docker.com/r/frekele/java
+
 
 ## Relations:
  - https://github.com/just-containers/s6-overlay
