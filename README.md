@@ -1,4 +1,4 @@
-# Apache Maven Docker Image - Extends frekele/java
+# Apache Maven (s6-overlay) Docker Image
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/frekele/maven.svg)](https://hub.docker.com/r/frekele/maven/)
 [![Docker Stars](https://img.shields.io/docker/stars/frekele/maven.svg)](https://hub.docker.com/r/frekele/maven/)
