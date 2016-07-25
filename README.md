@@ -31,8 +31,10 @@ Repository: https://hub.docker.com/r/frekele/maven
 | [3.3.3-jdk8u60]             | frekele/java:jdk8u60     | Production   | 3.3.3-jdk8u60                              |
 | [3.3.9-jdk8u51]             | frekele/java:jdk8u51     | Production   | 3.3.9-jdk8u51                              |
 | [3.3.3-jdk8u51]             | frekele/java:jdk8u51     | Production   | 3.3.3-jdk8u51                              |
-| [3.3.9-jdk7u80]             | frekele/java:jdk7u80     | Production   | 3.3.9-jdk7u80, 3.3.9-jdk7                  |
-| [3.3.3-jdk7u80]             | frekele/java:jdk7u80     | Production   | 3.3.3-jdk7u80, 3.3.3-jdk7                  |
+| [3.3.9-jdk7]                | frekele/java:jdk7        | Production   | 3.3.9-jdk7u80                              |
+| [3.3.3-jdk7]                | frekele/java:jdk7        | Production   | 3.3.3-jdk7u80                              |
+| [3.3.9-jdk7u80]             | frekele/java:jdk7u80     | Production   | 3.3.9-jdk7u80                              |
+| [3.3.3-jdk7u80]             | frekele/java:jdk7u80     | Production   | 3.3.3-jdk7u80                              |
 | [3.3.9-jdk7u79]             | frekele/java:jdk7u79     | Production   | 3.3.9-jdk7u79                              |
 | [3.3.3-jdk7u79]             | frekele/java:jdk7u79     | Production   | 3.3.3-jdk7u79                              |
 | [3.3.9-jdk7u76]             | frekele/java:jdk7u76     | Production   | 3.3.9-jdk7u76                              |
@@ -68,6 +70,7 @@ Repository: https://hub.docker.com/r/frekele/maven
 [3.3.9-jdk8u65]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u65/Dockerfile
 [3.3.9-jdk8u60]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u60/Dockerfile
 [3.3.9-jdk8u51]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u51/Dockerfile
+[3.3.9-jdk7]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk7/Dockerfile
 [3.3.9-jdk7u80]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk7u80/Dockerfile
 [3.3.9-jdk7u79]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk7u79/Dockerfile
 [3.3.9-jdk7u76]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk7u76/Dockerfile
@@ -89,6 +92,7 @@ Repository: https://hub.docker.com/r/frekele/maven
 [3.3.3-jdk8u65]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u65/Dockerfile
 [3.3.3-jdk8u60]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u60/Dockerfile
 [3.3.3-jdk8u51]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u51/Dockerfile
+[3.3.3-jdk7]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk7/Dockerfile
 [3.3.3-jdk7u80]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk7u80/Dockerfile
 [3.3.3-jdk7u79]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk7u79/Dockerfile
 [3.3.3-jdk7u76]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk7u76/Dockerfile
