@@ -47,7 +47,7 @@ Repository: https://hub.docker.com/r/frekele/maven
 | [3.3.3-jdk7u72]             | frekele/java:jdk7u72     | Production   | 3.3.3-jdk7u72                       |
 | [3.3.9-jdk7u71]             | frekele/java:jdk7u71     | Production   | 3.3.9-jdk7u71                       |
 | [3.3.3-jdk7u71]             | frekele/java:jdk7u71     | Production   | 3.3.3-jdk7u71                       |
-| [dev]                       | frekele/java:jdk8u102    | Development  | dev                                 |
+| [dev]                       | frekele/java:jdk8        | Development  | dev                                 |
 
 
 # Dockerfile extends From:
