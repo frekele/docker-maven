@@ -19,8 +19,8 @@ Repository: https://hub.docker.com/r/frekele/maven
 | [3.3.3-jdk8u77]             | frekele/java:jdk8u77     | Production   | 3.3.3-jdk8u77                       |
 | [3.3.9-jdk8u74]             | frekele/java:jdk8u74     | Production   | 3.3.9-jdk8u74                       |
 | [3.3.3-jdk8u74]             | frekele/java:jdk8u74     | Production   | 3.3.3-jdk8u74                       |
-| [3.3.9-jdk8u73]             | frekele/java:jdk8u73     | Production   | 3.3.9-jdk8u7                        |
-| [3.3.3-jdk8u73]             | frekele/java:jdk8u73     | Production   | 3.3.3-jdk8u7                        |
+| [3.3.9-jdk8u73]             | frekele/java:jdk8u73     | Production   | 3.3.9-jdk8u73                       |
+| [3.3.3-jdk8u73]             | frekele/java:jdk8u73     | Production   | 3.3.3-jdk8u73                       |
 | [3.3.9-jdk8u72]             | frekele/java:jdk8u72     | Production   | 3.3.9-jdk8u72                       |
 | [3.3.3-jdk8u72]             | frekele/java:jdk8u72     | Production   | 3.3.3-jdk8u72                       |
 | [3.3.9-jdk8u71]             | frekele/java:jdk8u71     | Production   | 3.3.9-jdk8u71                       |
@@ -33,8 +33,8 @@ Repository: https://hub.docker.com/r/frekele/maven
 | [3.3.3-jdk8u60]             | frekele/java:jdk8u60     | Production   | 3.3.3-jdk8u60                       |
 | [3.3.9-jdk8u51]             | frekele/java:jdk8u51     | Production   | 3.3.9-jdk8u51                       |
 | [3.3.3-jdk8u51]             | frekele/java:jdk8u51     | Production   | 3.3.3-jdk8u51                       |
-| [3.3.9-jdk7]                | frekele/java:jdk7        | Production   | 3.3.9-jdk7u80                       |
-| [3.3.3-jdk7]                | frekele/java:jdk7        | Production   | 3.3.3-jdk7u80                       |
+| [3.3.9-jdk7]                | frekele/java:jdk7        | Production   | 3.3.9-jdk7                          |
+| [3.3.3-jdk7]                | frekele/java:jdk7        | Production   | 3.3.3-jdk7                          |
 | [3.3.9-jdk7u80]             | frekele/java:jdk7u80     | Production   | 3.3.9-jdk7u80                       |
 | [3.3.3-jdk7u80]             | frekele/java:jdk7u80     | Production   | 3.3.3-jdk7u80                       |
 | [3.3.9-jdk7u79]             | frekele/java:jdk7u79     | Production   | 3.3.9-jdk7u79                       |
