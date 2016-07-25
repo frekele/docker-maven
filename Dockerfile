@@ -9,6 +9,7 @@ ENV M2_FOLDER=/root/.m2
 # change to tmp folder
 WORKDIR /tmp
 
+# Install maven
 
 
 # Create .m2 folder
