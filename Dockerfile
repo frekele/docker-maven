@@ -19,6 +19,10 @@ RUN wget --no-check-certificate --no-cookies http://archive.apache.org/dist/mave
     && rm -f apache-maven-${MAVEN_VERSION}-bin.tar.gz \
     && rm -f apache-maven-${MAVEN_VERSION}-bin.tar.gz.md5
 
+# add executables to path
+RUN update-alternatives --install "/usr/bin/mvn" "mvn" "/opt/mvn/bin/mvn" 1 && \
+    update-alternatives --set "mvn" "/opt/mvn/bin/mvn" 
+
 # Create .m2 folder
 RUN mkdir -p $M2_FOLDER
 
