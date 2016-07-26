@@ -94,6 +94,7 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
 
 
 [MAVEN LICENSE]: https://github.com/frekele/docker-maven/blob/dev/MAVEN_LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-maven/blob/dev/LICENSE
 [3.3.9-jdk8]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8/Dockerfile
 [3.3.9-jdk8u102]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u102/Dockerfile
 [3.3.9-jdk8u101]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u101/Dockerfile
