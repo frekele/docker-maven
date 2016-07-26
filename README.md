@@ -5,6 +5,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/frekele/docker-maven.svg)](https://github.com/frekele/docker-maven/issues)
 [![GitHub forks](https://img.shields.io/github/forks/frekele/docker-maven.svg)](https://github.com/frekele/docker-maven/network)
 [![GitHub stars](https://img.shields.io/github/stars/frekele/docker-maven.svg)](https://github.com/frekele/docker-maven/stargazers)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://frekele.github.io/docker-maven/)
+
+Site: https://frekele.github.io/docker-maven/
 
 Repository: https://hub.docker.com/r/frekele/maven
 
