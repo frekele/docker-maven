@@ -5,8 +5,13 @@
 [![GitHub issues](https://img.shields.io/github/issues/frekele/docker-maven.svg)](https://github.com/frekele/docker-maven/issues)
 [![GitHub forks](https://img.shields.io/github/forks/frekele/docker-maven.svg)](https://github.com/frekele/docker-maven/network)
 [![GitHub stars](https://img.shields.io/github/stars/frekele/docker-maven.svg)](https://github.com/frekele/docker-maven/stargazers)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://frekele.github.io/docker-maven/)
 
-Repository: https://hub.docker.com/r/frekele/maven
+[![Maven Image][MavenImage]][MavenWebsite]
+
+
+| [Website]  | [GitHub]  | [DockerHub]  |
+
 
 #### Maven 3.3.9 with Oracle JDK Branches:
 | Branch                      | From                     | Usage        | Tag Names                             |
@@ -97,9 +102,14 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
     SOFTWARE.
 
 
-
+[MavenImage]: https://raw.githubusercontent.com/frekele/docker-maven/dev/maven-logo.png
+[MavenWebsite]: http://maven.apache.org/
+[Website]: https://frekele.github.io/docker-maven
+[GitHub]: https://github.com/frekele/docker-maven
+[DockerHub]: https://hub.docker.com/r/frekele/maven
 [MAVEN LICENSE]: https://github.com/frekele/docker-maven/blob/dev/MAVEN_LICENSE
 [MIT LICENSE]: https://github.com/frekele/docker-maven/blob/dev/LICENSE
+
 [3.3.9-jdk8]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8/Dockerfile
 [3.3.9-jdk8u102]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u102/Dockerfile
 [3.3.9-jdk8u101]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u101/Dockerfile
