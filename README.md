@@ -45,7 +45,7 @@
 #### Maven 3.3.3 with Oracle JDK Branches:
 | Branch                      | From                     | Usage        | Tag Names                           |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------|
-| [3.3.3-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.3.3-jdk8, latest                  |
+| [3.3.3-jdk8]                | frekele/java:jdk8        | Production   | 3.3.3-jdk8                          |
 | [3.3.3-jdk8u112]            | frekele/java:jdk8u112    | Production   | 3.3.3-jdk8u112                      |
 | [3.3.3-jdk8u111]            | frekele/java:jdk8u111    | Production   | 3.3.3-jdk8u111                      |
 | [3.3.3-jdk8u102]            | frekele/java:jdk8u102    | Production   | 3.3.3-jdk8u102                      |
