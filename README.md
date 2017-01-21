@@ -17,6 +17,7 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.3.9-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.3.9-jdk8, 3.3-jdk8, 3-jdk8, latest  |
+| [3.3.9-jdk8u121]            | frekele/java:jdk8u121    | Production   | 3.3.9-jdk8u121                        |
 | [3.3.9-jdk8u112]            | frekele/java:jdk8u112    | Production   | 3.3.9-jdk8u112                        |
 | [3.3.9-jdk8u111]            | frekele/java:jdk8u111    | Production   | 3.3.9-jdk8u111                        |
 | [3.3.9-jdk8u102]            | frekele/java:jdk8u102    | Production   | 3.3.9-jdk8u102                        |
@@ -46,6 +47,7 @@
 | Branch                      | From                     | Usage        | Tag Names                           |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------|
 | [3.3.3-jdk8]                | frekele/java:jdk8        | Production   | 3.3.3-jdk8                          |
+| [3.3.3-jdk8u121]            | frekele/java:jdk8u121    | Production   | 3.3.3-jdk8u121                      |
 | [3.3.3-jdk8u112]            | frekele/java:jdk8u112    | Production   | 3.3.3-jdk8u112                      |
 | [3.3.3-jdk8u111]            | frekele/java:jdk8u111    | Production   | 3.3.3-jdk8u111                      |
 | [3.3.3-jdk8u102]            | frekele/java:jdk8u102    | Production   | 3.3.3-jdk8u102                      |
@@ -115,6 +117,7 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
 [MIT LICENSE]: https://github.com/frekele/docker-maven/blob/dev/LICENSE
 
 [3.3.9-jdk8]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8/Dockerfile
+[3.3.9-jdk8u121]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u121/Dockerfile
 [3.3.9-jdk8u112]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u112/Dockerfile
 [3.3.9-jdk8u111]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u111/Dockerfile
 [3.3.9-jdk8u102]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u102/Dockerfile
@@ -140,6 +143,7 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
 [dev]: https://github.com/frekele/docker-maven/blob/dev/Dockerfile
 
 [3.3.3-jdk8]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8/Dockerfile
+[3.3.3-jdk8u121]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u121/Dockerfile
 [3.3.3-jdk8u112]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u112/Dockerfile
 [3.3.3-jdk8u111]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u111/Dockerfile
 [3.3.3-jdk8u102]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u102/Dockerfile
