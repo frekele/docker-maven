@@ -1,8 +1,8 @@
-FROM frekele/java:jdk8
+FROM frekele/java:jdk8u131
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV MAVEN_VERSION=3.5.0
+ENV MAVEN_VERSION=3.3.9
 ENV MAVEN_HOME=/opt/mvn
 
 # change to tmp folder
