@@ -13,6 +13,7 @@
 | [Website]  | [GitHub]  | [DockerHub]  |
 
 #### Maven 3.5.0 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.5.0-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.5.0-jdk8, 3.5-jdk8, 3-jdk8, latest  |
@@ -46,6 +47,7 @@
 
 
 #### Maven 3.3.9 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.3.9-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.3.9-jdk8, 3.3-jdk8                  |
@@ -78,6 +80,7 @@
 
 
 #### Maven 3.3.3 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                           |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------|
 | [3.3.3-jdk8]                | frekele/java:jdk8        | Production   | 3.3.3-jdk8                          |
