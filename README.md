@@ -13,6 +13,7 @@
 | [Website]  | [GitHub]  | [DockerHub]  |
 
 #### Maven 3.5.0 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.5.0-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.5.0-jdk8, 3.5-jdk8, 3-jdk8, latest  |
@@ -42,10 +43,11 @@
 | [3.5.0-jdk7u75]             | frekele/java:jdk7u75     | Production   | 3.5.0-jdk7u75                         |
 | [3.5.0-jdk7u72]             | frekele/java:jdk7u72     | Production   | 3.5.0-jdk7u72                         |
 | [3.5.0-jdk7u71]             | frekele/java:jdk7u71     | Production   | 3.5.0-jdk7u71                         |
-| [dev]                       | frekele/java:jdk8        | Development  | dev                                   |
+| [master]                    | frekele/java:jdk8        | Development  | dev                                   |
 
 
 #### Maven 3.3.9 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.3.9-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.3.9-jdk8, 3.3-jdk8                  |
@@ -78,6 +80,7 @@
 
 
 #### Maven 3.3.3 with Oracle JDK Branches:
+
 | Branch                      | From                     | Usage        | Tag Names                           |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------|
 | [3.3.3-jdk8]                | frekele/java:jdk8        | Production   | 3.3.3-jdk8                          |
@@ -145,13 +148,13 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
     SOFTWARE.
 
 
-[MavenImage]: https://raw.githubusercontent.com/frekele/docker-maven/dev/maven-logo.png
+[MavenImage]: https://raw.githubusercontent.com/frekele/docker-maven/master/maven-logo.png
 [MavenWebsite]: http://maven.apache.org/
 [Website]: https://frekele.github.io/docker-maven
 [GitHub]: https://github.com/frekele/docker-maven
 [DockerHub]: https://hub.docker.com/r/frekele/maven
-[MAVEN LICENSE]: https://github.com/frekele/docker-maven/blob/dev/MAVEN_LICENSE
-[MIT LICENSE]: https://github.com/frekele/docker-maven/blob/dev/LICENSE
+[MAVEN LICENSE]: https://github.com/frekele/docker-maven/blob/master/MAVEN_LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-maven/blob/master/LICENSE
 
 [3.5.0-jdk8]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk8/Dockerfile
 [3.5.0-jdk8u144]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk8u144/Dockerfile
@@ -180,7 +183,7 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
 [3.5.0-jdk7u75]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk7u75/Dockerfile
 [3.5.0-jdk7u72]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk7u72/Dockerfile
 [3.5.0-jdk7u71]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk7u71/Dockerfile
-[dev]: https://github.com/frekele/docker-maven/blob/dev/Dockerfile
+[master]: https://github.com/frekele/docker-maven/blob/master/Dockerfile
 
 [3.3.9-jdk8]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8/Dockerfile
 [3.3.9-jdk8u144]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u144/Dockerfile
