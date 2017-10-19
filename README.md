@@ -52,7 +52,7 @@
 
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
-| [3.3.9-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.3.9-jdk8, 3.3-jdk8                  |
+| [3.3.9-jdk8]                | frekele/java:jdk8        | Production   | 3.3.9-jdk8, 3.3-jdk8                  |
 | [3.3.9-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.3.9-jdk8u152                        |
 | [3.3.9-jdk8u151]            | frekele/java:jdk8u151    | Production   | 3.3.9-jdk8u151                        |
 | [3.3.9-jdk8u144]            | frekele/java:jdk8u144    | Production   | 3.3.9-jdk8u144                        |
