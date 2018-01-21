@@ -17,6 +17,8 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.5.2-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.5.2-jdk8, 3.5-jdk8, 3-jdk8, latest  |
+| [3.5.2-jdk8u162]            | frekele/java:jdk8u162    | Production   | 3.5.2-jdk8u162                        |
+| [3.5.2-jdk8u161]            | frekele/java:jdk8u161    | Production   | 3.5.2-jdk8u161                        |
 | [3.5.2-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.5.2-jdk8u152                        |
 | [3.5.2-jdk8u151]            | frekele/java:jdk8u151    | Production   | 3.5.2-jdk8u151                        |
 | [3.5.2-jdk8u144]            | frekele/java:jdk8u144    | Production   | 3.5.2-jdk8u144                        |
@@ -53,6 +55,8 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.5.0-jdk8]                | frekele/java:jdk8        | Production   | 3.5.0-jdk8                            |
+| [3.5.0-jdk8u162]            | frekele/java:jdk8u162    | Production   | 3.5.0-jdk8u162                        |
+| [3.5.0-jdk8u161]            | frekele/java:jdk8u161    | Production   | 3.5.0-jdk8u161                        |
 | [3.5.0-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.5.0-jdk8u152                        |
 | [3.5.0-jdk8u151]            | frekele/java:jdk8u151    | Production   | 3.5.0-jdk8u151                        |
 | [3.5.0-jdk8u144]            | frekele/java:jdk8u144    | Production   | 3.5.0-jdk8u144                        |
@@ -88,6 +92,8 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.3.9-jdk8]                | frekele/java:jdk8        | Production   | 3.3.9-jdk8, 3.3-jdk8                  |
+| [3.3.9-jdk8u162]            | frekele/java:jdk8u162    | Production   | 3.3.9-jdk8u162                        |
+| [3.3.9-jdk8u161]            | frekele/java:jdk8u161    | Production   | 3.3.9-jdk8u161                        |
 | [3.3.9-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.3.9-jdk8u152                        |
 | [3.3.9-jdk8u151]            | frekele/java:jdk8u151    | Production   | 3.3.9-jdk8u151                        |
 | [3.3.9-jdk8u144]            | frekele/java:jdk8u144    | Production   | 3.3.9-jdk8u144                        |
@@ -123,6 +129,8 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | --------------------------------------|
 | [3.3.3-jdk8]                | frekele/java:jdk8        | Production   | 3.3.3-jdk8                            |
+| [3.3.3-jdk8u162]            | frekele/java:jdk8u162    | Production   | 3.3.3-jdk8u162                        |
+| [3.3.3-jdk8u161]            | frekele/java:jdk8u161    | Production   | 3.3.3-jdk8u161                        |
 | [3.3.3-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.3.3-jdk8u152                        |
 | [3.3.3-jdk8u151]            | frekele/java:jdk8u151    | Production   | 3.3.3-jdk8u151                        |
 | [3.3.3-jdk8u144]            | frekele/java:jdk8u144    | Production   | 3.3.3-jdk8u144                        |
@@ -198,6 +206,8 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
 [MIT LICENSE]: https://github.com/frekele/docker-maven/blob/master/LICENSE
 
 [3.5.2-jdk8]: https://github.com/frekele/docker-maven/blob/3.5.2-jdk8/Dockerfile
+[3.5.2-jdk8u162]: https://github.com/frekele/docker-maven/blob/3.5.2-jdk8u162/Dockerfile
+[3.5.2-jdk8u161]: https://github.com/frekele/docker-maven/blob/3.5.2-jdk8u161/Dockerfile
 [3.5.2-jdk8u152]: https://github.com/frekele/docker-maven/blob/3.5.2-jdk8u152/Dockerfile
 [3.5.2-jdk8u151]: https://github.com/frekele/docker-maven/blob/3.5.2-jdk8u151/Dockerfile
 [3.5.2-jdk8u144]: https://github.com/frekele/docker-maven/blob/3.5.2-jdk8u144/Dockerfile
@@ -229,6 +239,8 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
 [master]: https://github.com/frekele/docker-maven/blob/master/Dockerfile
 
 [3.5.0-jdk8]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk8/Dockerfile
+[3.5.0-jdk8u162]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk8u162/Dockerfile
+[3.5.0-jdk8u161]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk8u161/Dockerfile
 [3.5.0-jdk8u152]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk8u152/Dockerfile
 [3.5.0-jdk8u151]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk8u151/Dockerfile
 [3.5.0-jdk8u144]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk8u144/Dockerfile
@@ -259,6 +271,8 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
 [3.5.0-jdk7u71]: https://github.com/frekele/docker-maven/blob/3.5.0-jdk7u71/Dockerfile
 
 [3.3.9-jdk8]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8/Dockerfile
+[3.3.9-jdk8u162]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u162/Dockerfile
+[3.3.9-jdk8u161]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u161/Dockerfile
 [3.3.9-jdk8u152]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u152/Dockerfile
 [3.3.9-jdk8u151]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u151/Dockerfile
 [3.3.9-jdk8u144]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk8u144/Dockerfile
@@ -289,6 +303,8 @@ frekele/docker-maven is **licensed** under the **[MIT License]**. The terms of t
 [3.3.9-jdk7u71]: https://github.com/frekele/docker-maven/blob/3.3.9-jdk7u71/Dockerfile
 
 [3.3.3-jdk8]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8/Dockerfile
+[3.3.3-jdk8u162]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u162/Dockerfile
+[3.3.3-jdk8u161]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u161/Dockerfile
 [3.3.3-jdk8u152]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u152/Dockerfile
 [3.3.3-jdk8u151]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u151/Dockerfile
 [3.3.3-jdk8u144]: https://github.com/frekele/docker-maven/blob/3.3.3-jdk8u144/Dockerfile
