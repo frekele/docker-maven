@@ -17,6 +17,8 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.5.2-jdk8] - latest       | frekele/java:jdk8        | Production   | 3.5.2-jdk8, 3.5-jdk8, 3-jdk8, latest  |
+| [3.5.2-jdk8u172]            | frekele/java:jdk8u172    | Production   | 3.5.2-jdk8u172                        |
+| [3.5.2-jdk8u171]            | frekele/java:jdk8u171    | Production   | 3.5.2-jdk8u171                        |
 | [3.5.2-jdk8u162]            | frekele/java:jdk8u162    | Production   | 3.5.2-jdk8u162                        |
 | [3.5.2-jdk8u161]            | frekele/java:jdk8u161    | Production   | 3.5.2-jdk8u161                        |
 | [3.5.2-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.5.2-jdk8u152                        |
@@ -42,6 +44,8 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.5.0-jdk8]                | frekele/java:jdk8        | Production   | 3.5.0-jdk8                            |
+| [3.5.0-jdk8u172]            | frekele/java:jdk8u172    | Production   | 3.5.0-jdk8u172                        |
+| [3.5.0-jdk8u171]            | frekele/java:jdk8u171    | Production   | 3.5.0-jdk8u171                        |
 | [3.5.0-jdk8u162]            | frekele/java:jdk8u162    | Production   | 3.5.0-jdk8u162                        |
 | [3.5.0-jdk8u161]            | frekele/java:jdk8u161    | Production   | 3.5.0-jdk8u161                        |
 | [3.5.0-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.5.0-jdk8u152                        |
@@ -66,6 +70,8 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | ------------------------------------- |
 | [3.3.9-jdk8]                | frekele/java:jdk8        | Production   | 3.3.9-jdk8, 3.3-jdk8                  |
+| [3.3.9-jdk8u172]            | frekele/java:jdk8u172    | Production   | 3.3.9-jdk8u172                        |
+| [3.3.9-jdk8u171]            | frekele/java:jdk8u171    | Production   | 3.3.9-jdk8u171                        |
 | [3.3.9-jdk8u162]            | frekele/java:jdk8u162    | Production   | 3.3.9-jdk8u162                        |
 | [3.3.9-jdk8u161]            | frekele/java:jdk8u161    | Production   | 3.3.9-jdk8u161                        |
 | [3.3.9-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.3.9-jdk8u152                        |
@@ -90,6 +96,8 @@
 | Branch                      | From                     | Usage        | Tag Names                             |
 | --------------------------- | ------------------------ | ------------ | --------------------------------------|
 | [3.3.3-jdk8]                | frekele/java:jdk8        | Production   | 3.3.3-jdk8                            |
+| [3.3.3-jdk8u172]            | frekele/java:jdk8u172    | Production   | 3.3.3-jdk8u172                        |
+| [3.3.3-jdk8u171]            | frekele/java:jdk8u171    | Production   | 3.3.3-jdk8u171                        |
 | [3.3.3-jdk8u162]            | frekele/java:jdk8u162    | Production   | 3.3.3-jdk8u162                        |
 | [3.3.3-jdk8u161]            | frekele/java:jdk8u161    | Production   | 3.3.3-jdk8u161                        |
 | [3.3.3-jdk8u152]            | frekele/java:jdk8u152    | Production   | 3.3.3-jdk8u152                        |
